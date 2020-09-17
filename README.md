@@ -3,8 +3,7 @@ A module for the MagicMirror project (https://github.com/MichMich/MagicMirror) t
 
 Columns, and headings, as well as how some of the data is displayed is configurableText and the inside icon are configurable.
 
-![](images/1.png)
-![](images/2.png)
+![](images/example.png)
 
 ## Installation
 
