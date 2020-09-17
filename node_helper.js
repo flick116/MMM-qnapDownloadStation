@@ -1,7 +1,7 @@
 'use strict';
 
 /* Magic Mirror
- * Module: MMM-Hive
+ * Module: MMM-qnapDownloadStation
  *
  * By Stuart McNally
  * MIT Licensed.
