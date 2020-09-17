@@ -1,0 +1,71 @@
+.qtable {
+  border-collapse: collapse;   
+}
+
+.qheader {
+  text-align: left;
+  padding: 5px;
+  font-size: 15px;
+}
+
+.qheaderprogress {
+  text-align: center;
+  padding: 5px;
+  font-size: 15px;
+}
+
+.qheaderdown {
+  text-align: center;
+  padding: 5px;
+  font-size: 15px;
+}
+
+.qheaderup {
+  text-align: center;
+  padding: 5px;
+  font-size: 15px;
+}
+
+.qname {
+ /*border-bottom: 1px solid grey;*/
+ border-top: 1px solid grey;
+ border-collapse: collapse;
+ 
+ max-width: 250px;
+ overflow: hidden;
+ text-overflow: ellipsis;
+ white-space: nowrap;
+ text-align: left;
+ padding: 3px;
+ font-size: 15px;
+}
+
+.qrate {
+ /*border-bottom: 1px solid grey;*/
+ border-top: 1px solid grey;
+ border-collapse: collapse;
+ white-space: nowrap;
+ text-align: center;
+ padding: 3px;
+ font-size: 15px;
+}
+
+.qprogress {
+ /*border-bottom: 1px solid grey;*/
+ border-top: 1px solid grey;
+ border-collapse: collapse;
+ white-space: nowrap;
+ text-align: center;
+ padding: 3px;
+ font-size: 15px;
+}
+
+.qstarttime {
+ /*border-bottom: 1px solid grey;*/
+ border-top: 1px solid grey;
+ border-collapse: collapse;
+ white-space: nowrap;
+ text-align: left;
+ padding: 3px;
+ font-size: 15px;
+}
