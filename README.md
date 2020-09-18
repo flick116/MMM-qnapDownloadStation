@@ -15,6 +15,9 @@ git clone https://github.com/flick116/MMM-qnapDownloadStation
 
 [request](https://www.npmjs.com/package/request)
 
+## Note
+I have only tested this on a QNAP TS-351 running Download Station 5.
+
 ## Config
 
 |Option|Required|Description|
