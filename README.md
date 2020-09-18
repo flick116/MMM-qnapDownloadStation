@@ -21,7 +21,7 @@ git clone https://github.com/flick116/MMM-qnapDownloadStation
 |---|---|---|
 |`username`|Yes|This is your QNAP Download Station username.<br><br>**Type:** `string`|
 |`password`|Yes|This is your QNAP Download Station password.<br><br>**Type:** `string`|
-|`qnapServer`|Yes|The web address to your QNAP NAS,in the format http://<IP address or name><br><br>**Type:** `string`|
+|`qnapServer`|Yes|The web address to your QNAP NAS, in the format http://xx.xx.xx.xx or http://servername<br><br>**Type:** `string`|
 |`status`|Yes|Dictates what type of downloads are shown in the table.<br><br>**Type:** `string`<br>**Possible values:** `downloading` or `all` <br> **Default value:** `downloading`|
 
 Example of the config.js entry:
